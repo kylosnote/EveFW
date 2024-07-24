@@ -112,4 +112,4 @@ with st.container(border=True):
 
 
 with st.container(border=True):
-    get_monthly_component(month='6', title='May 2024')
+    get_monthly_component(month='5', title='May 2024')
