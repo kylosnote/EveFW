@@ -1,0 +1,962 @@
+[
+  [
+    311,
+    "Catalyst Navy Issue",
+    "Algos"
+  ],
+  [
+    270,
+    "Catalyst Navy Issue",
+    "Catalyst Navy Issue"
+  ],
+  [
+    222,
+    "Catalyst Navy Issue",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    188,
+    "Catalyst Navy Issue",
+    "Catalyst"
+  ],
+  [
+    149,
+    "Catalyst Navy Issue",
+    "Corax"
+  ],
+  [
+    149,
+    "Catalyst Navy Issue",
+    "Thrasher"
+  ],
+  [
+    147,
+    "Thrasher Fleet Issue",
+    "Algos"
+  ],
+  [
+    141,
+    "Thrasher Fleet Issue",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    98,
+    "Thrasher Fleet Issue",
+    "Catalyst Navy Issue"
+  ],
+  [
+    74,
+    "Catalyst Navy Issue",
+    "Coercer Navy Issue"
+  ],
+  [
+    74,
+    "Thrasher Fleet Issue",
+    "Catalyst"
+  ],
+  [
+    73,
+    "Thrasher Fleet Issue",
+    "Thrasher"
+  ],
+  [
+    72,
+    "Coercer Navy Issue",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    70,
+    "Catalyst Navy Issue",
+    "Coercer"
+  ],
+  [
+    66,
+    "Coercer Navy Issue",
+    "Algos"
+  ],
+  [
+    65,
+    "Catalyst Navy Issue",
+    "Cormorant Navy Issue"
+  ],
+  [
+    63,
+    "Catalyst Navy Issue",
+    "Cormorant"
+  ],
+  [
+    61,
+    "Algos",
+    "Algos"
+  ],
+  [
+    58,
+    "Catalyst Navy Issue",
+    "Dragoon"
+  ],
+  [
+    58,
+    "Coercer Navy Issue",
+    "Catalyst Navy Issue"
+  ],
+  [
+    58,
+    "Thrasher Fleet Issue",
+    "Corax"
+  ],
+  [
+    51,
+    "Thrasher Fleet Issue",
+    "Dragoon"
+  ],
+  [
+    49,
+    "Coercer Navy Issue",
+    "Thrasher"
+  ],
+  [
+    48,
+    "Thrasher",
+    "Thrasher"
+  ],
+  [
+    45,
+    "Coercer Navy Issue",
+    "Catalyst"
+  ],
+  [
+    45,
+    "Thrasher Fleet Issue",
+    "Coercer"
+  ],
+  [
+    44,
+    "Thrasher Fleet Issue",
+    "Coercer Navy Issue"
+  ],
+  [
+    36,
+    "Kikimora",
+    "Algos"
+  ],
+  [
+    34,
+    "Kikimora",
+    "Thrasher"
+  ],
+  [
+    33,
+    "Catalyst Navy Issue",
+    "Kikimora"
+  ],
+  [
+    33,
+    "Coercer Navy Issue",
+    "Coercer Navy Issue"
+  ],
+  [
+    30,
+    "Catalyst",
+    "Catalyst"
+  ],
+  [
+    29,
+    "Cormorant Navy Issue",
+    "Algos"
+  ],
+  [
+    28,
+    "Thrasher",
+    "Algos"
+  ],
+  [
+    28,
+    "Thrasher Fleet Issue",
+    "Cormorant"
+  ],
+  [
+    26,
+    "Algos",
+    "Corax"
+  ],
+  [
+    26,
+    "Kikimora",
+    "Kikimora"
+  ],
+  [
+    24,
+    "Kikimora",
+    "Corax"
+  ],
+  [
+    22,
+    "Algos",
+    "Catalyst"
+  ],
+  [
+    22,
+    "Kikimora",
+    "Catalyst Navy Issue"
+  ],
+  [
+    22,
+    "Kikimora",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    21,
+    "Thrasher Fleet Issue",
+    "Cormorant Navy Issue"
+  ],
+  [
+    20,
+    "Algos",
+    "Thrasher"
+  ],
+  [
+    20,
+    "Thrasher Fleet Issue",
+    "Kikimora"
+  ],
+  [
+    19,
+    "Cormorant Navy Issue",
+    "Thrasher"
+  ],
+  [
+    19,
+    "Thrasher",
+    "Catalyst"
+  ],
+  [
+    18,
+    "Catalyst Navy Issue",
+    "Talwar"
+  ],
+  [
+    18,
+    "Coercer Navy Issue",
+    "Corax"
+  ],
+  [
+    18,
+    "Coercer Navy Issue",
+    "Cormorant"
+  ],
+  [
+    18,
+    "Corax",
+    "Algos"
+  ],
+  [
+    18,
+    "Kikimora",
+    "Catalyst"
+  ],
+  [
+    18,
+    "Thrasher",
+    "Coercer"
+  ],
+  [
+    17,
+    "Coercer Navy Issue",
+    "Coercer"
+  ],
+  [
+    17,
+    "Kikimora",
+    "Cormorant"
+  ],
+  [
+    16,
+    "Thrasher",
+    "Corax"
+  ],
+  [
+    15,
+    "Coercer",
+    "Algos"
+  ],
+  [
+    15,
+    "Coercer",
+    "Coercer"
+  ],
+  [
+    15,
+    "Coercer Navy Issue",
+    "Cormorant Navy Issue"
+  ],
+  [
+    14,
+    "Coercer",
+    "Thrasher"
+  ],
+  [
+    14,
+    "Corax",
+    "Thrasher"
+  ],
+  [
+    14,
+    "Cormorant Navy Issue",
+    "Catalyst Navy Issue"
+  ],
+  [
+    14,
+    "Cormorant Navy Issue",
+    "Corax"
+  ],
+  [
+    14,
+    "Thrasher",
+    "Cormorant"
+  ],
+  [
+    13,
+    "Algos",
+    "Catalyst Navy Issue"
+  ],
+  [
+    13,
+    "Cormorant Navy Issue",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    13,
+    "Mekubal",
+    "Algos"
+  ],
+  [
+    12,
+    "Catalyst",
+    "Thrasher"
+  ],
+  [
+    12,
+    "Coercer Navy Issue",
+    "Dragoon"
+  ],
+  [
+    12,
+    "Kikimora",
+    "Sunesis"
+  ],
+  [
+    11,
+    "Kikimora",
+    "Dragoon"
+  ],
+  [
+    11,
+    "Thrasher Fleet Issue",
+    "Talwar"
+  ],
+  [
+    10,
+    "Algos",
+    "Coercer"
+  ],
+  [
+    10,
+    "Algos",
+    "Dragoon"
+  ],
+  [
+    10,
+    "Cormorant",
+    "Thrasher"
+  ],
+  [
+    10,
+    "Dragoon",
+    "Corax"
+  ],
+  [
+    10,
+    "Mamba",
+    "Algos"
+  ],
+  [
+    10,
+    "Thrasher",
+    "Dragoon"
+  ],
+  [
+    9,
+    "Algos",
+    "Cormorant"
+  ],
+  [
+    9,
+    "Catalyst",
+    "Algos"
+  ],
+  [
+    9,
+    "Catalyst",
+    "Coercer"
+  ],
+  [
+    9,
+    "Catalyst",
+    "Corax"
+  ],
+  [
+    9,
+    "Corax",
+    "Catalyst"
+  ],
+  [
+    9,
+    "Cormorant",
+    "Cormorant"
+  ],
+  [
+    9,
+    "Cormorant Navy Issue",
+    "Catalyst"
+  ],
+  [
+    9,
+    "Kikimora",
+    "Coercer"
+  ],
+  [
+    8,
+    "Coercer",
+    "Catalyst"
+  ],
+  [
+    8,
+    "Coercer",
+    "Corax"
+  ],
+  [
+    8,
+    "Dragoon",
+    "Algos"
+  ],
+  [
+    8,
+    "Dragoon",
+    "Catalyst"
+  ],
+  [
+    7,
+    "Algos",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    7,
+    "Dragoon",
+    "Dragoon"
+  ],
+  [
+    6,
+    "Catalyst",
+    "Cormorant"
+  ],
+  [
+    6,
+    "Coercer",
+    "Cormorant"
+  ],
+  [
+    6,
+    "Corax",
+    "Corax"
+  ],
+  [
+    6,
+    "Cormorant Navy Issue",
+    "Coercer"
+  ],
+  [
+    6,
+    "Cormorant Navy Issue",
+    "Cormorant Navy Issue"
+  ],
+  [
+    6,
+    "Cormorant Navy Issue",
+    "Dragoon"
+  ],
+  [
+    6,
+    "Dragoon",
+    "Catalyst Navy Issue"
+  ],
+  [
+    6,
+    "Dragoon",
+    "Coercer"
+  ],
+  [
+    6,
+    "Dragoon",
+    "Thrasher"
+  ],
+  [
+    5,
+    "Catalyst",
+    "Sunesis"
+  ],
+  [
+    5,
+    "Coercer Navy Issue",
+    "Talwar"
+  ],
+  [
+    5,
+    "Corax",
+    "Coercer"
+  ],
+  [
+    5,
+    "Cormorant",
+    "Algos"
+  ],
+  [
+    5,
+    "Dragoon",
+    "Cormorant"
+  ],
+  [
+    5,
+    "Mekubal",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    5,
+    "Thrasher",
+    "Catalyst Navy Issue"
+  ],
+  [
+    4,
+    "Algos",
+    "Coercer Navy Issue"
+  ],
+  [
+    4,
+    "Catalyst",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    4,
+    "Catalyst Navy Issue",
+    "Mekubal"
+  ],
+  [
+    4,
+    "Catalyst Navy Issue",
+    "Sunesis"
+  ],
+  [
+    4,
+    "Coercer Navy Issue",
+    "Kikimora"
+  ],
+  [
+    4,
+    "Corax",
+    "Catalyst Navy Issue"
+  ],
+  [
+    4,
+    "Corax",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    4,
+    "Cormorant",
+    "Catalyst"
+  ],
+  [
+    4,
+    "Cormorant Navy Issue",
+    "Cormorant"
+  ],
+  [
+    4,
+    "Kikimora",
+    "Cormorant Navy Issue"
+  ],
+  [
+    4,
+    "Mamba",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    3,
+    "Algos",
+    "Kikimora"
+  ],
+  [
+    3,
+    "Algos",
+    "Talwar"
+  ],
+  [
+    3,
+    "Catalyst",
+    "Catalyst Navy Issue"
+  ],
+  [
+    3,
+    "Catalyst",
+    "Cormorant Navy Issue"
+  ],
+  [
+    3,
+    "Catalyst Navy Issue",
+    "Mamba"
+  ],
+  [
+    3,
+    "Coercer",
+    "Dragoon"
+  ],
+  [
+    3,
+    "Corax",
+    "Dragoon"
+  ],
+  [
+    3,
+    "Cormorant",
+    "Sunesis"
+  ],
+  [
+    3,
+    "Cormorant Navy Issue",
+    "Talwar"
+  ],
+  [
+    3,
+    "Dragoon",
+    "Sunesis"
+  ],
+  [
+    3,
+    "Kikimora",
+    "Coercer Navy Issue"
+  ],
+  [
+    3,
+    "Kikimora",
+    "Talwar"
+  ],
+  [
+    3,
+    "Mekubal",
+    "Catalyst"
+  ],
+  [
+    3,
+    "Sunesis",
+    "Sunesis"
+  ],
+  [
+    3,
+    "Talwar",
+    "Algos"
+  ],
+  [
+    3,
+    "Talwar",
+    "Catalyst"
+  ],
+  [
+    3,
+    "Talwar",
+    "Coercer"
+  ],
+  [
+    3,
+    "Talwar",
+    "Thrasher"
+  ],
+  [
+    3,
+    "Thrasher",
+    "Kikimora"
+  ],
+  [
+    3,
+    "Thrasher",
+    "Sunesis"
+  ],
+  [
+    3,
+    "Thrasher",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    3,
+    "Thrasher Fleet Issue",
+    "Sunesis"
+  ],
+  [
+    2,
+    "Algos",
+    "Cormorant Navy Issue"
+  ],
+  [
+    2,
+    "Catalyst",
+    "Dragoon"
+  ],
+  [
+    2,
+    "Catalyst",
+    "Talwar"
+  ],
+  [
+    2,
+    "Coercer",
+    "Catalyst Navy Issue"
+  ],
+  [
+    2,
+    "Coercer",
+    "Coercer Navy Issue"
+  ],
+  [
+    2,
+    "Coercer",
+    "Kikimora"
+  ],
+  [
+    2,
+    "Coercer",
+    "Talwar"
+  ],
+  [
+    2,
+    "Coercer",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    2,
+    "Corax",
+    "Talwar"
+  ],
+  [
+    2,
+    "Cormorant",
+    "Corax"
+  ],
+  [
+    2,
+    "Cormorant",
+    "Cormorant Navy Issue"
+  ],
+  [
+    2,
+    "Cormorant",
+    "Dragoon"
+  ],
+  [
+    2,
+    "Cormorant",
+    "Kikimora"
+  ],
+  [
+    2,
+    "Cormorant Navy Issue",
+    "Coercer Navy Issue"
+  ],
+  [
+    2,
+    "Cormorant Navy Issue",
+    "Kikimora"
+  ],
+  [
+    2,
+    "Dragoon",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    2,
+    "Mamba",
+    "Coercer"
+  ],
+  [
+    2,
+    "Mekubal",
+    "Coercer"
+  ],
+  [
+    2,
+    "Mekubal",
+    "Cormorant"
+  ],
+  [
+    2,
+    "Thrasher",
+    "Cormorant Navy Issue"
+  ],
+  [
+    1,
+    "Catalyst",
+    "Coercer Navy Issue"
+  ],
+  [
+    1,
+    "Catalyst",
+    "Mekubal"
+  ],
+  [
+    1,
+    "Coercer",
+    "Sunesis"
+  ],
+  [
+    1,
+    "Corax",
+    "Cormorant"
+  ],
+  [
+    1,
+    "Corax",
+    "Cormorant Navy Issue"
+  ],
+  [
+    1,
+    "Corax",
+    "Sunesis"
+  ],
+  [
+    1,
+    "Cormorant",
+    "Coercer"
+  ],
+  [
+    1,
+    "Cormorant",
+    "Talwar"
+  ],
+  [
+    1,
+    "Cormorant",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    1,
+    "Cormorant Navy Issue",
+    "Mekubal"
+  ],
+  [
+    1,
+    "Dragoon",
+    "Cormorant Navy Issue"
+  ],
+  [
+    1,
+    "Dragoon",
+    "Kikimora"
+  ],
+  [
+    1,
+    "Mamba",
+    "Catalyst"
+  ],
+  [
+    1,
+    "Mamba",
+    "Catalyst Navy Issue"
+  ],
+  [
+    1,
+    "Mamba",
+    "Coercer Navy Issue"
+  ],
+  [
+    1,
+    "Mamba",
+    "Dragoon"
+  ],
+  [
+    1,
+    "Mamba",
+    "Talwar"
+  ],
+  [
+    1,
+    "Mamba",
+    "Thrasher"
+  ],
+  [
+    1,
+    "Mekubal",
+    "Catalyst Navy Issue"
+  ],
+  [
+    1,
+    "Mekubal",
+    "Corax"
+  ],
+  [
+    1,
+    "Mekubal",
+    "Dragoon"
+  ],
+  [
+    1,
+    "Sunesis",
+    "Catalyst"
+  ],
+  [
+    1,
+    "Sunesis",
+    "Coercer"
+  ],
+  [
+    1,
+    "Sunesis",
+    "Coercer Navy Issue"
+  ],
+  [
+    1,
+    "Sunesis",
+    "Cormorant"
+  ],
+  [
+    1,
+    "Sunesis",
+    "Cormorant Navy Issue"
+  ],
+  [
+    1,
+    "Sunesis",
+    "Dragoon"
+  ],
+  [
+    1,
+    "Sunesis",
+    "Talwar"
+  ],
+  [
+    1,
+    "Talwar",
+    "Catalyst Navy Issue"
+  ],
+  [
+    1,
+    "Talwar",
+    "Thrasher Fleet Issue"
+  ],
+  [
+    1,
+    "Thrasher",
+    "Talwar"
+  ],
+  [
+    1,
+    "Thrasher Fleet Issue",
+    "Mekubal"
+  ]
+]

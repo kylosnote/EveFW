@@ -1,0 +1,284 @@
+[
+  [
+    1209,
+    "Magnate Navy Issue",
+    "Small Focused Pulse Laser II",
+    "Venture"
+  ],
+  [
+    675,
+    "Breacher",
+    "Mjolnir Rage Rocket",
+    "Tristan"
+  ],
+  [
+    630,
+    "Astero",
+    "'Augmented' Hobgoblin",
+    "Heron"
+  ],
+  [
+    550,
+    "Crucifier Navy Issue",
+    "Hobgoblin II",
+    "Federation Navy Comet"
+  ],
+  [
+    483,
+    "Executioner",
+    "Small Focused Beam Laser II",
+    "Rifter"
+  ],
+  [
+    433,
+    "Federation Navy Comet",
+    "150mm Railgun II",
+    "Caldari Navy Hookbill"
+  ],
+  [
+    432,
+    "Tristan",
+    "Hobgoblin II",
+    "Kestrel"
+  ],
+  [
+    399,
+    "Vigil Fleet Issue",
+    "Nova Rage Rocket",
+    "Merlin"
+  ],
+  [
+    355,
+    "Federation Navy Comet",
+    "150mm Railgun II",
+    "Imperial Navy Slicer"
+  ],
+  [
+    337,
+    "Federation Navy Comet",
+    "Light Neutron Blaster II",
+    "Condor"
+  ],
+  [
+    321,
+    "Federation Navy Comet",
+    "Light Neutron Blaster II",
+    "Atron"
+  ],
+  [
+    244,
+    "Federation Navy Comet",
+    "Light Neutron Blaster II",
+    "Republic Fleet Firetail"
+  ],
+  [
+    239,
+    "Slasher",
+    "150mm Light AutoCannon II",
+    "Punisher"
+  ],
+  [
+    207,
+    "Republic Fleet Firetail",
+    "280mm Howitzer Artillery II",
+    "Incursus"
+  ],
+  [
+    204,
+    "Imperial Navy Slicer",
+    "Small Focused Pulse Laser II",
+    "Slasher"
+  ],
+  [
+    200,
+    "Federation Navy Comet",
+    "Hobgoblin II",
+    "Executioner"
+  ],
+  [
+    163,
+    "Astero",
+    "Secure Lab",
+    "Astero"
+  ],
+  [
+    157,
+    "Astero",
+    "Hornet II",
+    "Magnate"
+  ],
+  [
+    147,
+    "Vigil Fleet Issue",
+    "Nova Rage Rocket",
+    "Breacher"
+  ],
+  [
+    127,
+    "Magnate Navy Issue",
+    "Small Focused Pulse Laser II",
+    "Imicus"
+  ],
+  [
+    123,
+    "Caldari Navy Hookbill",
+    "Scourge Rage Rocket",
+    "Bantam"
+  ],
+  [
+    122,
+    "Rifter",
+    "200mm AutoCannon II",
+    "Tormentor"
+  ],
+  [
+    90,
+    "Kestrel",
+    "Mjolnir Rage Rocket",
+    "Probe"
+  ],
+  [
+    73,
+    "Federation Navy Comet",
+    "150mm Railgun II",
+    "Vigil Fleet Issue"
+  ],
+  [
+    68,
+    "Imperial Navy Slicer",
+    "Small Focused Beam Laser II",
+    "Griffin"
+  ],
+  [
+    59,
+    "Vigil Fleet Issue",
+    "Nova Rage Rocket",
+    "Maulus"
+  ],
+  [
+    53,
+    "Atron",
+    "Light Neutron Blaster II",
+    "Crucifier Navy Issue"
+  ],
+  [
+    49,
+    "Vigil Fleet Issue",
+    "Hobgoblin II",
+    "Crucifier"
+  ],
+  [
+    37,
+    "Imperial Navy Slicer",
+    "Small Focused Beam Laser II",
+    "Navitas"
+  ],
+  [
+    33,
+    "Breacher",
+    "Inferno Rage Rocket",
+    "Vigil"
+  ],
+  [
+    30,
+    "Magnate Navy Issue",
+    "Polarized Small Focused Pulse Laser",
+    "Heron Navy Issue"
+  ],
+  [
+    29,
+    "Astero",
+    "'Augmented' Hobgoblin",
+    "Probe Fleet Issue"
+  ],
+  [
+    27,
+    "Vigil Fleet Issue",
+    "Nova Rage Rocket",
+    "Garmur"
+  ],
+  [
+    24,
+    "Federation Navy Comet",
+    "Warrior II",
+    "Maulus Navy Issue"
+  ],
+  [
+    23,
+    "Astero",
+    "Hobgoblin II",
+    "Imicus Navy Issue"
+  ],
+  [
+    22,
+    "Imperial Navy Slicer",
+    "Small Focused Pulse Laser II",
+    "Griffin Navy Issue"
+  ],
+  [
+    15,
+    "Heron Navy Issue",
+    "Mjolnir Rage Rocket",
+    "Metamorphosis"
+  ],
+  [
+    15,
+    "Condor",
+    "Caldari Navy Scourge Light Missile",
+    "Inquisitor"
+  ],
+  [
+    13,
+    "Atron",
+    "Polarized Light Neutron Blaster",
+    "Magnate Navy Issue"
+  ],
+  [
+    12,
+    "Executioner",
+    "Small Focused Pulse Laser II",
+    "Burst"
+  ],
+  [
+    7,
+    "Daredevil",
+    "Light Neutron Blaster II",
+    "Daredevil"
+  ],
+  [
+    6,
+    "Federation Navy Comet",
+    "Light Neutron Blaster II",
+    "Succubus"
+  ],
+  [
+    4,
+    "Tormentor",
+    "Hornet II",
+    "Worm"
+  ],
+  [
+    3,
+    "Caldari Navy Hookbill",
+    "Caldari Navy Scourge Rocket",
+    "Dramiel"
+  ],
+  [
+    3,
+    "Kestrel",
+    "Caldari Navy Scourge Light Missile",
+    "Damavik"
+  ],
+  [
+    3,
+    "Republic Fleet Firetail",
+    "200mm AutoCannon II",
+    "Cruor"
+  ],
+  [
+    2,
+    "Succubus",
+    "Small Focused Beam Laser II",
+    "Skybreaker"
+  ]
+]
